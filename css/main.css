@@ -91,6 +91,7 @@ form{
 select,button{
     width: 100% !important;
     font-family: 'Russo One', sans-serif;
+    border: none;
 }
 
 .button1{
