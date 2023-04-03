@@ -1,0 +1,155 @@
+nav{
+    height: 80px;
+    width:100%;
+    background-color: black;
+    color: white;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.logo{
+    float: left;
+    margin-left: 50px;
+    padding-top: 15px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.nav-con{
+    float: right;
+    width: 100%;
+    height: 50px;
+    float: right;
+    margin-top: -30px;
+    padding-right: 10px;
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    float: right;
+    height: 35px;
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+    padding-left: 40px;
+
+}
+
+.col-box1{
+    width: 100%;
+    height: 500px;
+    background-image: url(../assets/rocket.png);
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+    text-align: left;
+    padding-top: 100px;
+    border-radius: 10px;
+}
+
+.col-box2{
+    width: 100%;
+    height: 500px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 100px;
+    border-radius: 10px;
+}
+
+form{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.form-input{
+    width: 100%;
+    height: 35px;
+    margin-top: -40px;
+    padding-left: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    border: none;
+    background-color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+}
+
+select,button{
+    width: 100% !important;
+    font-family: 'Russo One', sans-serif;
+}
+
+.button1{
+    width: 330px;
+    height: 35px;
+    border: 2px solid white;
+    color: white;
+    margin-left: 40px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.form-input1{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+}
+
+.line{
+    width: 100px;
+    height: 2px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.selected{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    margin-top: -50px;
+    font-family: 'Russo One', sans-serif;
+}
+
+h4{
+    margin-left: 40px;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+}
+
+h5{
+    margin-left: 40px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h6{
+    font-size: thin;
+}
+
+p{
+    margin-left: 40px;
+    color: white;
+}
